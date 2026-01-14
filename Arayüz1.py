@@ -91,7 +91,7 @@ with st.sidebar:
 # --- ANA BAŞLIK BANNERI ---
 # Buraya havalı bir siber güvenlik görseli koyuyoruz
 st.image("https://png.pngtree.com/thumb_back/fh260/background/20230614/pngtree-digital-technology-background-with-a-cyber-security-concept-image_2966896.jpg", use_column_width=True)
-st.title("Gelişmiş Video Otantisite Analiz Konsolu")
+st.title("DEEPFAKE VIDEO ANALIZI")
 st.markdown("**Deepfake Tespit ve Dijital Delil Doğrulama Sistemi**")
 st.markdown("---")
 
